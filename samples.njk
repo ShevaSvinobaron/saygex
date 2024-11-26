@@ -1,0 +1,19 @@
+---
+title: maia sample packs :3
+subhead: sample packs
+permalink: /samples/index.html
+date: git Last Modified
+---
+{% extends 'layouts/default.njk' %}
+{% block main %} 
+    <p>here are some sample packs i made!</p>
+    <div>
+      <ul>
+        {% for pack in samplepacks %}
+        <li>
+          <a href="/samples/{{ pack.filename }}"><code>{{ pack.filename }}</code></a> <sup title="{{ pack.changes }}">({{ pack.version }})</sup> - {{ pack.description }} 
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+{% endblock %}
