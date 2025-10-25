@@ -1,0 +1,169 @@
+{
+  "links": [
+    {
+      "name": "atom/rss feed",
+      "link": "https://maia.crimew.gay/feed.xml"
+    },
+    {
+      "name": "ko-fi",
+      "link": "https://ko-fi.com/nyancrimew"
+    },
+    {
+      "name": "tumblr",
+      "link": "https://tumblr.com/nyancrimew"
+    },
+    {
+      "name": "twitter",
+      "link": "https://twitter.com/awawawhoami"
+    },
+    {
+      "name": "fediverse",
+      "link": "https://crimew.gay/maia"
+    },
+    {
+      "name": "bluesky",
+      "link": "https://bsky.app/profile/crimew.gay"
+    },
+    {
+      "name": "instagram",
+      "link": "https://instagram.com/nyancrimew"
+    },
+    {
+      "name": "letterboxd",
+      "link": "https://letterboxd.com/nyancrimew/"
+    },
+    {
+      "name": "soundcloud",
+      "link": "https://soundcloud.com/nyancrimew"
+    },
+    {
+      "name": "last dot federated states of micronesia",
+      "link": "https://last.fm/user/nyancrimew"
+    },
+    {
+      "name": "github",
+      "link": "https://github.com/nyancrimew"
+    },
+    {
+      "name": "analytics",
+      "link": "https://umami.crimew.gay/share/M77OUJ83Q4qBcOjZ/maia.crimew.gay"
+    }
+  ],
+  "badges": [
+    {
+      "badge": "maia.crimew.gay.png",
+      "title": "my site :3",
+      "alt": "maia crimew",
+      "link": "https://maia.crimew.gay"
+    },
+    {
+      "badge": "88x31.gif",
+      "title": "baaaadges",
+      "alt": "88x31",
+      "link": "https://cyber.dabamos.de/88x31"
+    },
+    {
+      "badge": "noclick.gif",
+      "title": "don't do it",
+      "alt": "don't click here",
+      "onclick": "alert('what did i tell you??')"
+    },
+    {
+      "badge": "acab.gif",
+      "title": "fuck the cops",
+      "alt": "acab"
+    },
+    {
+      "badge": "archlinux.gif",
+      "title": "i use arch btw",
+      "alt": "arch linux",
+      "link": "https://archlinux.org"
+    },
+    {
+      "badge": "versarytown.png",
+      "title": "a very cool website by a very cool person <3",
+      "alt": "versary town",
+      "link": "https://versary.town"
+    },
+    {
+      "badge": "goop.gif",
+      "title": "goop house next up",
+      "alt": "goop house",
+      "link": "https://goop.house"
+    },
+    {
+      "badge": "anarchynow.gif",
+      "alt": "anarchy now"
+    },
+    {
+      "badge": "sleepy.png",
+      "title": "sleepy.zone is the best internet radio out there",
+      "alt": "sleepy zone"
+    },
+    {
+      "badge": "kitten88.gif",
+      "title": "im a kitten fr fr",
+      "alt": "kitten's corner"
+    },
+    {
+      "badge": "oatzone.gif",
+      "alt": "oat.zone",
+      "link": "https://oat.zone"
+    },
+    {
+      "badge": "slimesnow.png",
+      "alt": "slimes now"
+    },
+    {
+      "badge": "slugcat.png",
+      "alt": "slugcat"
+    },
+    {
+      "badge": "sinewave.gif",
+      "alt": "sinewave",
+      "link": "https://sinewave.cyou"
+    },
+    {
+      "badge": "nonbinary.png",
+      "alt": "non-binary pride",
+      "title": "im non binary fr fr"
+    },
+    {
+      "badge": "queer.png",
+      "alt": "queer pride",
+      "title": "im queeeer as fuck"
+    },
+    {
+      "badge": "piracy.gif",
+      "alt": "piracy now",
+      "title": "piracy is swag and you should do it"
+    },
+    {
+      "badge": "utsuhorocks.png",
+      "alt": "utsuho rocks",
+      "title": "utsuho rocks",
+      "link": "https://utsuho.rocks"
+    },
+    {
+      "badge": "ilwagbannersmol.png",
+      "alt": "ilwag.com",
+      "title": "cute lil tunes :3",
+      "link": "https://ilwag.com"
+    },
+    {
+      "badge": "solely.png",
+      "alt": "solely",
+      "link": "https://arciniega.one"
+    },
+    {
+      "badge": "lesbi.png",
+      "alt": "les.bi",
+      "link": "https://les.bi"
+    },
+    {
+      "badge": "adryd.png",
+      "alt": "adryd",
+      "link": "https://adryd.com"
+    }
+  ]
+}
