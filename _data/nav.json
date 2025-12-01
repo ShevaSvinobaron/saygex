@@ -1,0 +1,22 @@
+[
+    {
+        "name": "home",
+        "link": "/"
+    },
+    {
+        "name": "blog",
+        "link": "/posts/"
+    },
+    {
+        "name": "citations",
+        "link": "/citations/"
+    },
+    {
+        "name": "contact",
+        "link": "/contact/"
+    },
+    {
+        "name": "sample packs",
+        "link": "/samples/"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "filename": "annoying-catgirl-noises.zip",
+        "description": "maia meows and uwus",
+        "version": "v1.0",
+        "changes": "initial release"
+    },
+    {
+        "filename": "maiacore.zip",
+        "description": "recordings of maia saying random things, probably updated fairly frequently",
+        "version": "v1.1",
+        "changes": "add bell pepper samples"
+    },
+    {
+        "filename": "samplefocus-legit-not-stolen.zip",
+        "description": "over 7gb of low quality mp3 files scraped off of samplefocus.com",
+        "version": "v1.0",
+        "changes": "initial release"
+    }
+]
